@@ -1,4 +1,4 @@
 # apnacollegedemo
 This is my first github repository.
 <br>
-Author - MANJU PRANAV
+Author - MANJU PRANAV (apna college)
